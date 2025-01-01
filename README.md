@@ -15,7 +15,7 @@ Proficient in virtualization technologies and monitoring and observabillity tool
 
 ## 🌐 Socials:
 
-<a href="mailto:denis.lezgin@gmail.com" rel="">![](https://dl3.pushbulletusercontent.com/zsgK8A3pdc6B5uJLlJbhC3f3YUNdGriB/gmail.svg)</a>  <a href="https://linkedin.com/in/denis-lezgin" rel="nofollow"><img src="https://dl3.pushbulletusercontent.com/FYiupTNpq40NEIPH8TMu4UL2xokpAWpi/linkedin.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:denis@lezgin.name" rel="">![](https://dl3.pushbulletusercontent.com/zsgK8A3pdc6B5uJLlJbhC3f3YUNdGriB/gmail.svg)</a>  <a href="www.linkedin.com/in/denis-lezgin" rel="">![](https://dl3.pushbulletusercontent.com/FYiupTNpq40NEIPH8TMu4UL2xokpAWpi/linkedin.svg)</a>
 
 ## 📜Certifications:
 
@@ -161,6 +161,153 @@ ONTAP Data Protection Administration</a>
   </tbody>
 </table>
 
+### DataBases
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Relational Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="MySQL" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a><br>MySQL
+      </td>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b1aa6077b7d1752ac3d2908f5af5e010809fc99278e349120c5890ddefeddac/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c"><img src="https://camo.githubusercontent.com/6b1aa6077b7d1752ac3d2908f5af5e010809fc99278e349120c5890ddefeddac/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c" alt="PostgreSQL" width="50" height="50" data-canonical-src="https://skillicons.dev/icons?i=postgresql" style="max-width: 100%;"></a><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">NoSQL Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" alt="MongoDB" width="50" height="50" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%;"></a><br>MongoDB
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Key-value Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Redis-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Redis-Dark.svg" alt="Redis" width="50" height="50" style="max-width: 100%;"></a><br>Redis
+      </td>
+   <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/CPQ07REfZojgIjgBmYvazkhn9tfUkQ2W/consul.png"><img src="https://dl3.pushbulletusercontent.com/CPQ07REfZojgIjgBmYvazkhn9tfUkQ2W/consul.png" alt="Consul" width="50" height="50" style="max-width: 100%;"></a><br>Hashicorp Consul
+      </td>
+    </tr>
+  </tbody>
+</table><br/>
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Time-series Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prometheus.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Prometheus.svg" alt="Prometheus" width="50" height="50" style="max-width: 100%;"></a><br>Prometheus
+      </td>
+   <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/afuvh4k1Hrxy6pPjlLU2C16tIeN5yt0N/Influxdb_logo.svg.png"><img src="https://dl3.pushbulletusercontent.com/afuvh4k1Hrxy6pPjlLU2C16tIeN5yt0N/Influxdb_logo.svg.png" alt="InfluxDB" width="120" height="60" style="max-width: 100%;"></a><br>InfluxDB
+      </td>
+     <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/PhB62sh3QEbQMAomCtkejkbY5lIDSHpe/victoriametrics-seeklogo.svg"><img src="https://dl3.pushbulletusercontent.com/PhB62sh3QEbQMAomCtkejkbY5lIDSHpe/victoriametrics-seeklogo.svg" alt="VM" width="120" height="60" style="max-width: 100%;"></a><br>VictoriaMetrics
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Monitoring & Observability
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Monitoring</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Grafana-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Grafana-Dark.svg" alt="Grafana" width="50" height="50" style="max-width: 100%;"></a><br>Grafana
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Observability</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/3XJawjimOchBimDpOcDS6eLl9BoTO81h/OpenTelemetry.svg"><img src="https://dl3.pushbulletusercontent.com/3XJawjimOchBimDpOcDS6eLl9BoTO81h/OpenTelemetry.svg" alt="OTel" width="50" height="50" style="max-width: 100%;"></a><br>Opentelemetry (OTel)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Search engines
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Observability</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Elasticsearch-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Elasticsearch-Dark.svg" alt="ES" width="50" height="50" style="max-width: 100%;"></a><br>Elasticsearch
+      </td>
+       <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/gqBA605Nn9Fbti3j2xKjy3VcYbZdk6K8/elastic-kibana.svg"><img src="https://dl3.pushbulletusercontent.com/gqBA605Nn9Fbti3j2xKjy3VcYbZdk6K8/elastic-kibana.svg" alt="Kibana" width="90" height="50" style="max-width: 100%;"></a><br>Kibana
+      </td>
+   <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://dl3.pushbulletusercontent.com/u1D2wBzzfqPrl9z7ftKPvcZbMQWOaHX6/splunk.svg"><img src="https://dl3.pushbulletusercontent.com/u1D2wBzzfqPrl9z7ftKPvcZbMQWOaHX6/splunk.svg" alt="Splunk" width="70" height="50" style="max-width: 100%;"></a><br>Splunk
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Message queue systems
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Stream processing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kafka.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kafka.svg" alt="Kafka" width="50" height="50" style="max-width: 100%;"></a><br>Apache Kafka
+      </td>
+   <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/RabbitMQ-Dark.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" width="50" height="50" style="max-width: 100%;"></a><br>RabbitMQ
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # 📊 GitHub Stats
 

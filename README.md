@@ -15,7 +15,7 @@ Proficient in virtualization technologies and monitoring and observabillity tool
 
 ## 🌐 Socials:
 
-<a href="mailto:denis.lezgin@gmail.com" rel="">![](https://dl3.pushbulletusercontent.com/zsgK8A3pdc6B5uJLlJbhC3f3YUNdGriB/gmail.svg)</a>  <a href="www.linkedin.com/in/denis-lezgin" rel="">![](https://dl3.pushbulletusercontent.com/FYiupTNpq40NEIPH8TMu4UL2xokpAWpi/linkedin.svg)</a>
+<a href="mailto:denis.lezgin@gmail.com" rel="">![](https://dl3.pushbulletusercontent.com/zsgK8A3pdc6B5uJLlJbhC3f3YUNdGriB/gmail.svg)</a>  <a href="https://linkedin.com/in/denis-lezgin" rel="nofollow"><img src="https://dl3.pushbulletusercontent.com/FYiupTNpq40NEIPH8TMu4UL2xokpAWpi/linkedin.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 ## 📜Certifications:
 

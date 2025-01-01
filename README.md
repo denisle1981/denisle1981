@@ -271,7 +271,7 @@ ONTAP Data Protection Administration</a>
 <table>
   <thead>
     <tr>
-      <th colspan="4" align="center">Observability</th>
+      <th colspan="4" align="center">Logging</th>
     </tr>
   </thead>
   <tbody>

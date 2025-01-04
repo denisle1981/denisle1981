@@ -216,7 +216,7 @@ ONTAP Data Protection Administration</a>
 <table>
   <thead>
     <tr>
-      <th colspan="4" align="center">Time-series Databases</th>
+      <th colspan="4" align="center">Time-series Database</th>
     </tr>
   </thead>
   <tbody>

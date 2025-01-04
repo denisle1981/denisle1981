@@ -84,7 +84,7 @@ ONTAP Data Protection Administration</a>
 <table>
   <thead>
     <tr>
-      <th colspan="2" align="center">Infrastructure as Code</th>
+      <th colspan="2" align="center">Infrastructure as a Code</th>
     </tr>
   </thead>
   <tbody>
